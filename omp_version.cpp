@@ -3,7 +3,7 @@
 #include <chrono>
 #include <cmath>
 #include <omp.h>
-#include "a2-helpers.hpp"
+#include "helpers.hpp"
 
 using namespace std;
 

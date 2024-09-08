@@ -1,6 +1,5 @@
 /**
- *   This file contains a set of helper function. 
- *   Comment: You probably do need to change any of these.
+ *   This file contains a set of helper functions. 
 */
 #include <vector>
 #include <string>
